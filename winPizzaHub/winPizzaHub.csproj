@@ -89,6 +89,7 @@
   <ItemGroup>
     <None Include="Resources\pizza00.jpg" />
     <None Include="Resources\template.png" />
+    <None Include="Resources\pizza13.jpg" />
     <Content Include="tradition_autumn_holiday_fall_pizza_icon_227938.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
